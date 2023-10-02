@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibuu7&label=Profile%20views&color=0e75b6&style=flat" alt="sibuu7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibuu7" alt="sibuu7" /></a> </p>
+
 
 
 
@@ -29,6 +29,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R_DJJq6_u8zwckg-scGNepQo5mxYsJbh/view?usp=drive_link](https://drive.google.com/file/d/1R_DJJq6_u8zwckg-scGNepQo5mxYsJbh/view?usp=drive_link)
 
 - ⚡ Fun fact **I know nothing.**
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibuu7" alt="sibuu7" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
