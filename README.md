@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pradhansibasankar10](https://medium.com/@pradhansibasankar10)
 
-- 💬 Ask me about **Android, MERN**
+
 
 - 📫 How to reach me **pradhansibasankar10@gmail.com**
 
