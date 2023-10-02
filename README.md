@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://Sai1Ram.io)
 <h1 align="center">Hi 👋, I'm Siba Sankar Pradhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Electrical Undergraduate from NIT Rourkela</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif"/>
 
